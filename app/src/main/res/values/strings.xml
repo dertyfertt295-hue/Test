@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Luma</string>
+    <!-- The assistant is called the same in every language. -->
+    <string name="assistant_name" translatable="false">Iskra AI</string>
+
+    <!-- Chat -->
+    <string name="menu_open">Open menu</string>
+    <string name="chat_new">New chat</string>
+    <string name="empty_title">Where shall we start?</string>
+    <string name="suggestion_idea">Find an idea</string>
+    <string name="suggestion_idea_draft">Help me come up with an idea for </string>
+    <string name="suggestion_explain">Explain simply</string>
+    <string name="suggestion_explain_draft">Explain in simple words how </string>
+    <string name="composer_hint">Write something…</string>
+    <string name="composer_label">Message</string>
+    <string name="action_send">Send message</string>
+    <string name="action_stop">Stop the answer</string>
+    <string name="model_change">Change model</string>
+    <string name="model_sheet_title">Model</string>
+    <string name="ai_disclaimer">AI answers can be wrong</string>
+    <string name="assistant_thinking">Iskra is thinking…</string>
+    <string name="message_demo">Old demo answer</string>
+    <string name="message_truncated">The answer hit its length limit. You can ask it to continue.</string>
+    <string name="copy_answer">Copy answer</string>
+    <string name="copied">Answer copied</string>
+    <string name="date_today">Today</string>
+    <string name="date_yesterday">Yesterday</string>
+    <string name="conversation_meta">%1$s · on this device</string>
+    <string name="no_answer_yet">No answer yet.</string>
+    <string name="retry">Try again</string>
+
+    <!-- Drawer -->
+    <string name="drawer_close">Close menu</string>
+    <string name="search_chats">Search conversations</string>
+    <string name="search_clear">Clear search</string>
+    <string name="your_chats">Your conversations</string>
+    <string name="nothing_found">Nothing found</string>
+    <string name="empty_chats_title">All quiet</string>
+    <string name="empty_chats_body">Your first conversation\nwill appear here.</string>
+    <string name="chat_actions">Actions for conversation %1$s</string>
+
+    <!-- Dialogs -->
+    <string name="rename">Rename</string>
+    <string name="delete_chat">Delete conversation</string>
+    <string name="rename_title">Conversation name</string>
+    <string name="rename_label">Name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="delete_chat_title">Delete this conversation?</string>
+    <string name="delete_chat_body">It will be removed from this device. This cannot be undone.</string>
+    <string name="clear_history_title">Clear the whole history?</string>
+    <string name="clear_history_body">Every conversation and draft will be removed from this device. Your settings stay.</string>
+
+    <!-- Sign in -->
+    <string name="signin_subtitle">Sign in with Google to start talking with Iskra AI.</string>
+    <string name="signin_button">Sign in with Google</string>
+    <string name="signin_busy">Signing in…</string>
+    <string name="signin_privacy">We only keep your name and e-mail — on this device.</string>
+    <string name="signin_cancelled">Sign-in cancelled.</string>
+    <string name="signin_offline">No internet connection.</string>
+    <string name="signin_not_configured">This app is not set up for Google sign-in.</string>
+    <string name="signin_failed">Could not sign in. Please try again.</string>
+    <string name="signin_no_play">Google Play services are not available on this device.</string>
+    <string name="signin_no_window">Could not open the sign-in window.</string>
+    <string name="signin_required">Sign in with Google to continue.</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="settings_back">Back to chat</string>
+    <string name="settings_headline">Your way.</string>
+    <string name="settings_subtitle">A few settings for your comfort.</string>
+    <string name="section_account">Account</string>
+    <string name="section_model">Model</string>
+    <string name="section_appearance">Appearance</string>
+    <string name="section_language">Language</string>
+    <string name="section_comfort">Comfort</string>
+    <string name="section_data">Data</string>
+    <string name="account_google">Google account</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sign_out_title">Sign out?</string>
+    <string name="sign_out_body">You cannot talk to Iskra without signing in. Your conversations stay on the device.</string>
+    <string name="sign_out_confirm">Sign out</string>
+    <string name="theme">Theme</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_system">System</string>
+    <string name="accent">Accent</string>
+    <string name="accent_lavender">Lavender</string>
+    <string name="accent_mint">Mint</string>
+    <string name="accent_peach">Peach</string>
+    <string name="accent_dynamic">Wallpaper</string>
+    <string name="language_system">System</string>
+    <string name="large_text">Large text</string>
+    <string name="large_text_sub">A little more room to read</string>
+    <string name="haptics">Haptic feedback</string>
+    <string name="haptics_sub">A light tick as you go</string>
+    <string name="clear_history">Clear history</string>
+    <string name="clear_history_sub">Remove conversations from this device</string>
+    <string name="about_title">Luma · early version</string>
+    <string name="about_body">Answered by Iskra AI. Your conversations are kept on this device only; answers need an internet connection.</string>
+    <string name="about_version">Version %1$s</string>
+
+    <!-- Models -->
+    <string name="model_a_note">The most capable. For hard questions and long writing</string>
+    <string name="model_v_note">Balanced. Answers quickly and reasons well</string>
+    <string name="model_s_note">Light. For short questions and drafts</string>
+
+    <!-- Errors -->
+    <string name="error_unauthorized">The access key was rejected. Let the app developer know.</string>
+    <string name="error_quota">Access is limited for now. Try again later.</string>
+    <string name="error_forbidden">Access denied. Try again later.</string>
+    <string name="error_model_unavailable">This model is unavailable right now. Pick another one in settings.</string>
+    <string name="error_timeout">The answer took too long. Try again.</string>
+    <string name="error_rate_limit">Request limit reached. Wait a moment and try again.</string>
+    <string name="error_bad_request">The request was refused. Try shortening your message or starting a new conversation.</string>
+    <string name="error_service">The service is temporarily unavailable. Try again later.</string>
+    <string name="error_empty">The model returned an empty answer. Try again.</string>
+    <string name="error_not_configured">The app is not set up to answer.</string>
+    <string name="error_read_settings">Could not read the app settings.</string>
+    <string name="error_network">Could not connect. Check your internet and try again.</string>
+    <string name="error_slow">The model did not answer in time. Try again.</string>
+    <string name="error_parse">Could not read the service response. Try again.</string>
+    <string name="error_stopped">Answer stopped.</string>
+    <string name="error_generic">Could not get an answer. Try again.</string>
+    <string name="error_history_read">Could not read the history on this device.</string>
+    <string name="error_save_failed">Could not save your changes. Check the free space.</string>
+    <string name="error_link_open">Could not open the link</string>
+    <string name="response_duration">Thought for %1$s s</string>
+    <string name="sync_title">Chats on your PC</string>
+    <string name="sync_waiting">Changes saved on this phone. Waiting to sync.</string>
+    <string name="sync_working">Syncing with your PC…</string>
+    <string name="sync_saved">Saved on your PC</string>
+    <string name="sync_offline">PC unavailable. Changes remain on this phone; we will retry automatically.</string>
+    <string name="sync_hint">Before reinstalling, wait for “Saved on your PC”. Your PC must be on to sync. Sign in with the same Google account to restore chats.</string>
+    <string name="sync_now">Sync now</string>
+    <string name="sync_address">PC address</string>
+    <string name="sync_address_hint">Leave empty to use the built-in address. Change it if your home IP has changed.</string>
+    <string name="accent_blue">Blue</string>
+    <string name="accent_rose">Rose</string>
+    <string name="accent_amber">Amber</string>
+    <string name="accent_teal">Teal</string>
+    <string name="accent_graphite">Graphite</string>
+    <string name="black_background">Black background</string>
+    <string name="black_background_sub">Pure black in dark mode; cards keep their tonal colors</string>
+    <string name="compact_chat">Compact chat</string>
+    <string name="compact_chat_sub">Less space between messages</string>
+    <string name="animate_replies">Text animation</string>
+    <string name="animate_replies_sub">Reveal answers gradually; turn off to show them immediately</string>
+    <string name="show_response_time">Response time</string>
+    <string name="show_response_time_sub">Show how long each answer took</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="photo_add">Прикрепить фото</string>
+    <string name="photo_attached">Фото</string>
+    <string name="photo_remove">Удалить фото</string>
+    <string name="photo_error">Не удалось открыть фото. Попробуйте другое изображение.</string>
+    <string name="voice_record">Голосовой ввод</string>
+    <string name="voice_transcribing">Распознаю речь…</string>
+    <string name="voice_hint">До 2 минут. Текст появится в поле сообщения.</string>
+    <string name="voice_done">Готово</string>
+    <string name="voice_error">Не удалось записать звук. Попробуйте ещё раз.</string>
+    <string name="voice_empty">Не удалось распознать речь. Попробуйте ещё раз.</string>
+    <string name="voice_permission">Разрешите доступ к микрофону в настройках Android для записи голоса.</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <!-- Lines the empty chat's headline turns to after "Where shall we start?".
+         Kept short: two lines of the display style on a phone. Every language
+         has the same number of them. -->
+    <string-array name="empty_thoughts">
+        <item>Know thyself.</item>
+        <item>Doubt is where wisdom starts.</item>
+        <item>Everything flows.</item>
+        <item>I think, therefore I am.</item>
+        <item>Wonder comes before knowing.</item>
+        <item>I know that I know nothing.</item>
+        <item>The path is the goal.</item>
+        <item>What is worth asking?</item>
+        <item>Questions outlive answers.</item>
+    </string-array>
+</resources>

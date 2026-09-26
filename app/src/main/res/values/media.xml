@@ -1,0 +1,13 @@
+<resources>
+    <string name="photo_add">Attach photo</string>
+    <string name="photo_attached">Photo</string>
+    <string name="photo_remove">Remove photo</string>
+    <string name="photo_error">Could not open this photo. Try a different image.</string>
+    <string name="voice_record">Voice input</string>
+    <string name="voice_transcribing">Transcribing…</string>
+    <string name="voice_hint">Up to 2 minutes. The transcript will appear in the message field.</string>
+    <string name="voice_done">Use recording</string>
+    <string name="voice_error">Could not record audio. Please try again.</string>
+    <string name="voice_empty">No speech recognized. Please try again.</string>
+    <string name="voice_permission">Allow microphone access in Android settings to record your voice.</string>
+</resources>

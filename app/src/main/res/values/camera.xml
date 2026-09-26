@@ -1,0 +1,5 @@
+<resources>
+    <string name="photo_camera">Take photo</string>
+    <string name="photo_gallery">Choose photo</string>
+    <string name="camera_unavailable">No camera app is available. You can choose a photo instead.</string>
+</resources>

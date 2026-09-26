@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="empty_thoughts">
+        <item>Conócete a ti mismo.</item>
+        <item>Dudar es empezar a saber.</item>
+        <item>Todo fluye.</item>
+        <item>Pienso, luego existo.</item>
+        <item>Todo empieza con el asombro.</item>
+        <item>Solo sé que no sé nada.</item>
+        <item>El camino es la meta.</item>
+        <item>¿Qué vale la pena preguntar?</item>
+        <item>Las preguntas perduran.</item>
+    </string-array>
+</resources>

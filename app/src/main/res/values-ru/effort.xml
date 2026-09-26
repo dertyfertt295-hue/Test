@@ -1,0 +1,12 @@
+<resources>
+    <string name="effort_title">Усилие %1$s</string>
+    <string name="effort_change">Уровень размышлений: %1$s</string>
+    <string name="effort_slider">Уровень размышлений</string>
+    <string name="effort_instant_note">Отвечает сразу, без размышлений</string>
+    <string name="effort_medium_note">Немного подумает перед ответом</string>
+    <string name="effort_high_note">Тщательно продумывает ответ</string>
+    <string name="effort_xhigh_note">Глубокие рассуждения для сложных задач</string>
+    <string name="effort_ultra_note">Максимум размышлений — дольше всего, но тщательнее всего</string>
+    <string name="effort_unsupported">%1$s отвечает без размышлений — уровень действует у %2$s</string>
+    <string name="error_thinking_limit">Размышления заняли весь лимит ответа. Попробуйте уровень пониже.</string>
+</resources>

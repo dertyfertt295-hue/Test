@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Luma</string>
+
+    <!-- Chat -->
+    <string name="menu_open">Abrir el menú</string>
+    <string name="chat_new">Nueva conversación</string>
+    <string name="empty_title">¿Por dónde empezamos?</string>
+    <string name="suggestion_idea">Buscar una idea</string>
+    <string name="suggestion_idea_draft">Ayúdame a pensar una idea para </string>
+    <string name="suggestion_explain">Explicar sencillo</string>
+    <string name="suggestion_explain_draft">Explica con palabras sencillas cómo </string>
+    <string name="composer_hint">Escribe algo…</string>
+    <string name="composer_label">Mensaje</string>
+    <string name="action_send">Enviar mensaje</string>
+    <string name="action_stop">Detener la respuesta</string>
+    <string name="model_change">Cambiar de modelo</string>
+    <string name="model_sheet_title">Modelo</string>
+    <string name="ai_disclaimer">Las respuestas de la IA pueden fallar</string>
+    <string name="assistant_thinking">Iskra está pensando…</string>
+    <string name="message_demo">Respuesta de demostración antigua</string>
+    <string name="message_truncated">La respuesta alcanzó su límite de longitud. Puedes pedirle que continúe.</string>
+    <string name="copy_answer">Copiar la respuesta</string>
+    <string name="copied">Respuesta copiada</string>
+    <string name="date_today">Hoy</string>
+    <string name="date_yesterday">Ayer</string>
+    <string name="conversation_meta">%1$s · en este dispositivo</string>
+    <string name="no_answer_yet">Todavía no hay respuesta.</string>
+    <string name="retry">Intentar de nuevo</string>
+
+    <!-- Drawer -->
+    <string name="drawer_close">Cerrar el menú</string>
+    <string name="search_chats">Buscar conversaciones</string>
+    <string name="search_clear">Borrar la búsqueda</string>
+    <string name="your_chats">Tus conversaciones</string>
+    <string name="nothing_found">No se encontró nada</string>
+    <string name="empty_chats_title">Todo tranquilo</string>
+    <string name="empty_chats_body">Tu primera conversación\naparecerá aquí.</string>
+    <string name="chat_actions">Acciones para la conversación %1$s</string>
+
+    <!-- Dialogs -->
+    <string name="rename">Renombrar</string>
+    <string name="delete_chat">Eliminar la conversación</string>
+    <string name="rename_title">Nombre de la conversación</string>
+    <string name="rename_label">Nombre</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_chat_title">¿Eliminar esta conversación?</string>
+    <string name="delete_chat_body">Se borrará de este dispositivo. No se puede deshacer.</string>
+    <string name="clear_history_title">¿Borrar todo el historial?</string>
+    <string name="clear_history_body">Se borrarán todas las conversaciones y borradores de este dispositivo. Tus ajustes se mantienen.</string>
+
+    <!-- Sign in -->
+    <string name="signin_subtitle">Inicia sesión con Google para empezar a hablar con Iskra AI.</string>
+    <string name="signin_button">Iniciar sesión con Google</string>
+    <string name="signin_busy">Iniciando sesión…</string>
+    <string name="signin_privacy">Solo guardamos tu nombre y correo — en este dispositivo.</string>
+    <string name="signin_cancelled">Inicio de sesión cancelado.</string>
+    <string name="signin_offline">Sin conexión a internet.</string>
+    <string name="signin_not_configured">La aplicación no está configurada para iniciar sesión con Google.</string>
+    <string name="signin_failed">No se pudo iniciar sesión. Inténtalo de nuevo.</string>
+    <string name="signin_no_play">Los servicios de Google Play no están disponibles en este dispositivo.</string>
+    <string name="signin_no_window">No se pudo abrir la ventana de inicio de sesión.</string>
+    <string name="signin_required">Inicia sesión con Google para continuar.</string>
+
+    <!-- Settings -->
+    <string name="settings">Ajustes</string>
+    <string name="settings_back">Volver al chat</string>
+    <string name="settings_headline">A tu manera.</string>
+    <string name="settings_subtitle">Unos ajustes para tu comodidad.</string>
+    <string name="section_account">Cuenta</string>
+    <string name="section_model">Modelo</string>
+    <string name="section_appearance">Apariencia</string>
+    <string name="section_language">Idioma</string>
+    <string name="section_comfort">Comodidad</string>
+    <string name="section_data">Datos</string>
+    <string name="account_google">Cuenta de Google</string>
+    <string name="sign_out">Cerrar sesión</string>
+    <string name="sign_out_title">¿Cerrar sesión?</string>
+    <string name="sign_out_body">Sin iniciar sesión no puedes hablar con Iskra. Tus conversaciones se quedan en el dispositivo.</string>
+    <string name="sign_out_confirm">Cerrar sesión</string>
+    <string name="theme">Tema</string>
+    <string name="theme_dark">Oscuro</string>
+    <string name="theme_light">Claro</string>
+    <string name="theme_system">Sistema</string>
+    <string name="accent">Acento</string>
+    <string name="accent_lavender">Lavanda</string>
+    <string name="accent_mint">Menta</string>
+    <string name="accent_peach">Durazno</string>
+    <string name="accent_dynamic">Fondo</string>
+    <string name="language_system">Del sistema</string>
+    <string name="large_text">Texto grande</string>
+    <string name="large_text_sub">Un poco más de aire para leer</string>
+    <string name="haptics">Respuesta háptica</string>
+    <string name="haptics_sub">Un toque ligero al usar la app</string>
+    <string name="clear_history">Borrar el historial</string>
+    <string name="clear_history_sub">Eliminar las conversaciones de este dispositivo</string>
+    <string name="about_title">Luma · versión temprana</string>
+    <string name="about_body">Responde Iskra AI. Tus conversaciones se guardan solo en este dispositivo; las respuestas necesitan internet.</string>
+    <string name="about_version">Versión %1$s</string>
+
+    <!-- Models -->
+    <string name="model_a_note">La más potente. Para preguntas difíciles y textos largos</string>
+    <string name="model_v_note">Equilibrada. Responde rápido y razona bien</string>
+    <string name="model_s_note">Ligera. Para preguntas cortas y borradores</string>
+
+    <!-- Errors -->
+    <string name="error_unauthorized">La clave de acceso fue rechazada. Avisa a quien desarrolla la app.</string>
+    <string name="error_quota">El acceso está limitado por ahora. Inténtalo más tarde.</string>
+    <string name="error_forbidden">Acceso denegado. Inténtalo más tarde.</string>
+    <string name="error_model_unavailable">Este modelo no está disponible ahora. Elige otro en los ajustes.</string>
+    <string name="error_timeout">La respuesta tardó demasiado. Inténtalo de nuevo.</string>
+    <string name="error_rate_limit">Se alcanzó el límite de peticiones. Espera un momento y vuelve a intentarlo.</string>
+    <string name="error_bad_request">La petición fue rechazada. Prueba a acortar el mensaje o a empezar una conversación nueva.</string>
+    <string name="error_service">El servicio no está disponible temporalmente. Inténtalo más tarde.</string>
+    <string name="error_empty">El modelo devolvió una respuesta vacía. Inténtalo de nuevo.</string>
+    <string name="error_not_configured">La aplicación no está configurada para responder.</string>
+    <string name="error_read_settings">No se pudieron leer los ajustes de la aplicación.</string>
+    <string name="error_network">No se pudo conectar. Revisa tu internet y vuelve a intentarlo.</string>
+    <string name="error_slow">El modelo no respondió a tiempo. Inténtalo de nuevo.</string>
+    <string name="error_parse">No se pudo leer la respuesta del servicio. Inténtalo de nuevo.</string>
+    <string name="error_stopped">Respuesta detenida.</string>
+    <string name="error_generic">No se pudo obtener una respuesta. Inténtalo de nuevo.</string>
+    <string name="error_history_read">No se pudo leer el historial de este dispositivo.</string>
+    <string name="error_save_failed">No se pudieron guardar los cambios. Revisa el espacio libre.</string>
+    <string name="error_link_open">No se pudo abrir el enlace</string>
+    <string name="response_duration">Pensó durante %1$s s</string>
+    <string name="sync_title">Chats en tu PC</string>
+    <string name="sync_waiting">Cambios guardados en este teléfono. Sincronización pendiente.</string>
+    <string name="sync_working">Sincronizando con tu PC…</string>
+    <string name="sync_saved">Guardado en tu PC</string>
+    <string name="sync_offline">PC no disponible. Los cambios permanecen en el teléfono; reintentaremos automáticamente.</string>
+    <string name="sync_hint">Antes de reinstalar, espera a ver «Guardado en tu PC». El PC debe estar encendido. Inicia sesión con la misma cuenta de Google para restaurar tus chats.</string>
+    <string name="sync_now">Sincronizar ahora</string>
+    <string name="sync_address">Dirección del PC</string>
+    <string name="sync_address_hint">Déjalo vacío para usar la dirección incorporada. Cámbialo si tu IP doméstica ha cambiado.</string>
+    <string name="accent_blue">Azul</string>
+    <string name="accent_rose">Rosa</string>
+    <string name="accent_amber">Ámbar</string>
+    <string name="accent_teal">Turquesa</string>
+    <string name="accent_graphite">Grafito</string>
+    <string name="black_background">Fondo negro</string>
+    <string name="black_background_sub">Negro puro en modo oscuro; las tarjetas conservan sus tonos</string>
+    <string name="compact_chat">Chat compacto</string>
+    <string name="compact_chat_sub">Menos espacio entre mensajes</string>
+    <string name="animate_replies">Animación del texto</string>
+    <string name="animate_replies_sub">Mostrar respuestas gradualmente; desactiva para verlas completas</string>
+    <string name="show_response_time">Tiempo de respuesta</string>
+    <string name="show_response_time_sub">Mostrar cuánto tardó cada respuesta</string>
+</resources>

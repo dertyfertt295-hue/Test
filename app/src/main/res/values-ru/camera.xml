@@ -1,0 +1,5 @@
+<resources>
+    <string name="photo_camera">Сделать фото</string>
+    <string name="photo_gallery">Выбрать фото</string>
+    <string name="camera_unavailable">Не удалось открыть камеру. Можно выбрать фото из галереи.</string>
+</resources>

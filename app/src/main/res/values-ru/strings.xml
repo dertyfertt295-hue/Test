@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лума</string>
+
+    <!-- Chat -->
+    <string name="menu_open">Открыть меню</string>
+    <string name="chat_new">Новый диалог</string>
+    <string name="empty_title">С чего начнём?</string>
+    <string name="suggestion_idea">Найти идею</string>
+    <string name="suggestion_idea_draft">Помоги придумать идею для </string>
+    <string name="suggestion_explain">Объяснить просто</string>
+    <string name="suggestion_explain_draft">Объясни простыми словами, как </string>
+    <string name="composer_hint">Напишите что-нибудь…</string>
+    <string name="composer_label">Сообщение</string>
+    <string name="action_send">Отправить сообщение</string>
+    <string name="action_stop">Остановить ответ</string>
+    <string name="model_change">Сменить модель</string>
+    <string name="model_sheet_title">Модель</string>
+    <string name="ai_disclaimer">Ответы ИИ могут содержать ошибки</string>
+    <string name="assistant_thinking">Iskra думает…</string>
+    <string name="message_demo">Старый демо-ответ</string>
+    <string name="message_truncated">Достигнут лимит длины ответа. Можно попросить продолжить.</string>
+    <string name="copy_answer">Скопировать ответ</string>
+    <string name="copied">Ответ скопирован</string>
+    <string name="date_today">Сегодня</string>
+    <string name="date_yesterday">Вчера</string>
+    <string name="conversation_meta">%1$s · на этом устройстве</string>
+    <string name="no_answer_yet">Ответ пока не получен.</string>
+    <string name="retry">Повторить запрос</string>
+
+    <!-- Drawer -->
+    <string name="drawer_close">Закрыть меню</string>
+    <string name="search_chats">Поиск диалогов</string>
+    <string name="search_clear">Очистить поиск</string>
+    <string name="your_chats">Ваши диалоги</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="empty_chats_title">Пока тихо</string>
+    <string name="empty_chats_body">Ваш первый разговор\nпоявится здесь.</string>
+    <string name="chat_actions">Действия с диалогом %1$s</string>
+
+    <!-- Dialogs -->
+    <string name="rename">Переименовать</string>
+    <string name="delete_chat">Удалить диалог</string>
+    <string name="rename_title">Название диалога</string>
+    <string name="rename_label">Название</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_chat_title">Удалить диалог?</string>
+    <string name="delete_chat_body">Он будет удалён с этого устройства. Это действие нельзя отменить.</string>
+    <string name="clear_history_title">Очистить всю историю?</string>
+    <string name="clear_history_body">Все диалоги и черновики будут удалены с этого устройства. Настройки сохранятся.</string>
+
+    <!-- Sign in -->
+    <string name="signin_subtitle">Войдите через Google, чтобы начать разговор с Iskra AI.</string>
+    <string name="signin_button">Войти через Google</string>
+    <string name="signin_busy">Входим…</string>
+    <string name="signin_privacy">Сохраняем только имя и адрес почты — на этом устройстве.</string>
+    <string name="signin_cancelled">Вход отменён.</string>
+    <string name="signin_offline">Нет подключения к интернету.</string>
+    <string name="signin_not_configured">Приложение не настроено для входа через Google.</string>
+    <string name="signin_failed">Не удалось войти. Попробуйте ещё раз.</string>
+    <string name="signin_no_play">Google Play сервисы недоступны на этом устройстве.</string>
+    <string name="signin_no_window">Не удалось открыть окно входа.</string>
+    <string name="signin_required">Войдите через Google, чтобы продолжить.</string>
+
+    <!-- Settings -->
+    <string name="settings">Настройки</string>
+    <string name="settings_back">Назад к чату</string>
+    <string name="settings_headline">По-вашему.</string>
+    <string name="settings_subtitle">Немного настроек для вашего комфорта.</string>
+    <string name="section_account">Аккаунт</string>
+    <string name="section_model">Модель</string>
+    <string name="section_appearance">Внешний вид</string>
+    <string name="section_language">Язык</string>
+    <string name="section_comfort">Комфорт</string>
+    <string name="section_data">Данные</string>
+    <string name="account_google">Аккаунт Google</string>
+    <string name="sign_out">Выйти из аккаунта</string>
+    <string name="sign_out_title">Выйти из аккаунта?</string>
+    <string name="sign_out_body">Без входа общаться не получится. Диалоги останутся на устройстве.</string>
+    <string name="sign_out_confirm">Выйти</string>
+    <string name="theme">Тема</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_system">Система</string>
+    <string name="accent">Акцент</string>
+    <string name="accent_lavender">Лаванда</string>
+    <string name="accent_mint">Мята</string>
+    <string name="accent_peach">Персик</string>
+    <string name="accent_dynamic">Обои</string>
+    <string name="language_system">Системный</string>
+    <string name="large_text">Крупный текст</string>
+    <string name="large_text_sub">Чуть больше воздуха для чтения</string>
+    <string name="haptics">Тактильный отклик</string>
+    <string name="haptics_sub">Лёгкие щелчки при действиях</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="clear_history_sub">Удалить диалоги с устройства</string>
+    <string name="about_title">Лума · ранняя версия</string>
+    <string name="about_body">Отвечает Iskra AI. История диалогов хранится только на этом устройстве, для ответов нужен интернет.</string>
+    <string name="about_version">Версия %1$s</string>
+
+    <!-- Models -->
+    <string name="model_a_note">Самая мощная. Для сложных вопросов и длинных текстов</string>
+    <string name="model_v_note">Сбалансированная. Быстро отвечает и хорошо рассуждает</string>
+    <string name="model_s_note">Лёгкая. Для коротких вопросов и черновиков</string>
+
+    <!-- Errors -->
+    <string name="error_unauthorized">Ключ доступа отклонён. Сообщите об этом разработчику приложения.</string>
+    <string name="error_quota">Доступ временно ограничен. Попробуйте позже.</string>
+    <string name="error_forbidden">Доступ запрещён. Попробуйте позже.</string>
+    <string name="error_model_unavailable">Эта модель сейчас недоступна. Выберите другую в настройках.</string>
+    <string name="error_timeout">Время ожидания ответа истекло. Попробуйте ещё раз.</string>
+    <string name="error_rate_limit">Лимит запросов достигнут. Подождите немного и повторите.</string>
+    <string name="error_bad_request">Запрос не принят. Попробуйте сократить сообщение или начать новый диалог.</string>
+    <string name="error_service">Сервис временно недоступен. Попробуйте позже.</string>
+    <string name="error_empty">Модель вернула пустой ответ. Попробуйте ещё раз.</string>
+    <string name="error_not_configured">Приложение не настроено для ответов.</string>
+    <string name="error_read_settings">Не удалось прочитать настройки приложения.</string>
+    <string name="error_network">Не удалось подключиться. Проверьте интернет и повторите запрос.</string>
+    <string name="error_slow">Модель не успела ответить. Попробуйте ещё раз.</string>
+    <string name="error_parse">Не удалось прочитать ответ сервиса. Попробуйте ещё раз.</string>
+    <string name="error_stopped">Ответ остановлен.</string>
+    <string name="error_generic">Не удалось получить ответ. Попробуйте ещё раз.</string>
+    <string name="error_history_read">Не удалось прочитать историю на этом устройстве.</string>
+    <string name="error_save_failed">Не удалось сохранить изменения. Проверьте свободное место.</string>
+    <string name="error_link_open">Не удалось открыть ссылку</string>
+    <string name="response_duration">Думала %1$s с</string>
+    <string name="sync_title">Чаты на вашем ПК</string>
+    <string name="sync_waiting">Изменения сохранены на телефоне. Ожидание синхронизации.</string>
+    <string name="sync_working">Синхронизация с ПК…</string>
+    <string name="sync_saved">Сохранено на ПК</string>
+    <string name="sync_offline">ПК недоступен. Изменения остаются на телефоне; повторим автоматически.</string>
+    <string name="sync_hint">Перед переустановкой дождитесь «Сохранено на ПК». Для синхронизации ПК должен быть включён. Для восстановления войдите в тот же Google-аккаунт.</string>
+    <string name="sync_now">Синхронизировать сейчас</string>
+    <string name="sync_address">Адрес ПК</string>
+    <string name="sync_address_hint">Оставьте пустым, чтобы использовать встроенный адрес. Измените, если домашний IP сменился.</string>
+    <string name="accent_blue">Синий</string>
+    <string name="accent_rose">Розовый</string>
+    <string name="accent_amber">Янтарный</string>
+    <string name="accent_teal">Бирюзовый</string>
+    <string name="accent_graphite">Графит</string>
+    <string name="black_background">Чёрный фон</string>
+    <string name="black_background_sub">Чистый чёрный в тёмной теме; карточки сохраняют оттенки</string>
+    <string name="compact_chat">Компактный чат</string>
+    <string name="compact_chat_sub">Меньше расстояние между сообщениями</string>
+    <string name="animate_replies">Анимация текста</string>
+    <string name="animate_replies_sub">Показывать ответы постепенно; выключите для мгновенного появления</string>
+    <string name="show_response_time">Время ответа</string>
+    <string name="show_response_time_sub">Показывать время ожидания над ответом</string>
+</resources>

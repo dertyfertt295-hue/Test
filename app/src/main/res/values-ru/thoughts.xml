@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="empty_thoughts">
+        <item>Познай самого себя.</item>
+        <item>Сомнение — начало мудрости.</item>
+        <item>Всё течёт, всё меняется.</item>
+        <item>Мыслю — значит существую.</item>
+        <item>Всё начинается с удивления.</item>
+        <item>Я знаю, что ничего не знаю.</item>
+        <item>Путь важнее цели.</item>
+        <item>О чём стоит спросить?</item>
+        <item>Вопросы живут дольше ответов.</item>
+    </string-array>
+</resources>

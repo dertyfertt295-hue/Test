@@ -1,0 +1,12 @@
+<resources>
+    <string name="mode_chat">Чат</string>
+    <string name="o5_title">Что исследуем?</string>
+    <string name="o5_subtitle">O5 · A-4.5 с доступом в интернет. Дай задачу — я найду источники и разберусь.</string>
+    <string name="o5_plan">Разбираюсь в задаче</string>
+    <string name="o5_search">Ищу в интернете</string>
+    <string name="o5_read">Читаю страницу</string>
+    <string name="o5_review">Проверяю результаты</string>
+    <string name="o5_done">Работа завершена</string>
+    <string name="o5_failed">Источник недоступен</string>
+    <string name="o5_steps">Этапы работы</string>
+</resources>

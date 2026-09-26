@@ -1,0 +1,13 @@
+<resources>
+    <!-- The level names themselves (Instant … Ultra) are product names and are not translated. -->
+    <string name="effort_title">%1$s effort</string>
+    <string name="effort_change">Reasoning effort: %1$s</string>
+    <string name="effort_slider">Reasoning effort</string>
+    <string name="effort_instant_note">Answers right away, without thinking</string>
+    <string name="effort_medium_note">Thinks briefly before answering</string>
+    <string name="effort_high_note">Thinks the answer through</string>
+    <string name="effort_xhigh_note">Deep reasoning for hard problems</string>
+    <string name="effort_ultra_note">The most thinking — slowest, most thorough</string>
+    <string name="effort_unsupported">%1$s answers without thinking — the level applies to %2$s</string>
+    <string name="error_thinking_limit">Thinking used up the whole answer limit. Try a lower effort.</string>
+</resources>

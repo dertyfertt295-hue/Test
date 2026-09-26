@@ -1,0 +1,12 @@
+<resources>
+    <string name="mode_chat">Chat</string>
+    <string name="o5_title">¿Qué investigamos?</string>
+    <string name="o5_subtitle">O5 · A-4.5 con acceso a la web. Dame una tarea: buscaré fuentes y la resolveré.</string>
+    <string name="o5_plan">Analizando la tarea</string>
+    <string name="o5_search">Buscando en la web</string>
+    <string name="o5_read">Leyendo una página</string>
+    <string name="o5_review">Comprobando resultados</string>
+    <string name="o5_done">Trabajo completado</string>
+    <string name="o5_failed">Fuente no disponible</string>
+    <string name="o5_steps">Pasos del trabajo</string>
+</resources>

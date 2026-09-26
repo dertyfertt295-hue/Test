@@ -1,0 +1,12 @@
+<resources>
+    <string name="effort_title">Esfuerzo %1$s</string>
+    <string name="effort_change">Nivel de razonamiento: %1$s</string>
+    <string name="effort_slider">Nivel de razonamiento</string>
+    <string name="effort_instant_note">Responde al instante, sin pensar</string>
+    <string name="effort_medium_note">Piensa un poco antes de responder</string>
+    <string name="effort_high_note">Piensa la respuesta a fondo</string>
+    <string name="effort_xhigh_note">Razonamiento profundo para problemas difíciles</string>
+    <string name="effort_ultra_note">El máximo razonamiento: más lento, más minucioso</string>
+    <string name="effort_unsupported">%1$s responde sin razonar: el nivel se aplica a %2$s</string>
+    <string name="error_thinking_limit">El razonamiento agotó el límite de la respuesta. Prueba un nivel más bajo.</string>
+</resources>

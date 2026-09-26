@@ -1,0 +1,12 @@
+<resources>
+    <string name="mode_chat">Chat</string>
+    <string name="o5_title">What shall we explore?</string>
+    <string name="o5_subtitle">O5 · A-4.5 with web research. Give me a task — I will find sources and work through it.</string>
+    <string name="o5_plan">Planning the task</string>
+    <string name="o5_search">Searching the web</string>
+    <string name="o5_read">Reading a page</string>
+    <string name="o5_review">Checking results</string>
+    <string name="o5_done">Work completed</string>
+    <string name="o5_failed">Source unavailable</string>
+    <string name="o5_steps">Work steps</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.Luma" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <!-- Neutral tone 6 and primary tone 80 of the default (lavender) palette,
+             so the launch window matches the first frame Compose draws. -->
+        <item name="android:windowBackground">#141218</item>
+        <item name="android:colorAccent">#D2BCFD</item>
+    </style>
+</resources>

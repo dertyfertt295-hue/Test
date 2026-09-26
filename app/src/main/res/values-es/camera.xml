@@ -1,0 +1,5 @@
+<resources>
+    <string name="photo_camera">Tomar foto</string>
+    <string name="photo_gallery">Elegir foto</string>
+    <string name="camera_unavailable">No se pudo abrir la cámara. Puedes elegir una foto de la galería.</string>
+</resources>
